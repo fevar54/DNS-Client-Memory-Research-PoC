@@ -1,0 +1,2 @@
+# No external dependencies required for the core script.
+# Standard Python 3.x libraries are used (socket, struct, argparse).
